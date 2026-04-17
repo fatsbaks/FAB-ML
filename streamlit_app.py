@@ -5,7 +5,6 @@ st.title('Review Score Prediction App')
 st.info('This app predicts review scores for products based on price, freight fee and delivery time.')
 model = joblib.load("random_forest_model.pkl")
 
-st.title("Review Score Prediction App")
 st.write("Enter product details to predict the review score:")
 
 price = st.number_input("Product Price", min_value = 0.0, step = 0.01)
