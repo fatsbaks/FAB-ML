@@ -1,13 +1,9 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# ML App - Review Score Predictor
 
-Description of the app ...
-
+This an ML app that predicts review scores for products based on price, freight value, and delivery time 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://FAB-ML.streamlit.app/)
 
 ## GitHub Codespaces
 
